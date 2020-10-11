@@ -2,6 +2,8 @@
 
 A KNN classification algorithm built from scratch. Used Streamlit to create a web app to visualize the input data and the predictions.
 
+### Medium Article
+https://towardsdatascience.com/how-to-build-a-knn-classification-model-from-scratch-and-visualize-it-using-streamlit-9fe8059cc418
 
 ### Steps to run the project Locally
 1. Create a virtual environment in Python 
