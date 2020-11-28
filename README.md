@@ -1,4 +1,4 @@
-# KNN-Streamlit
+# KNN-Streamlit [![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://share.streamlit.io/rahulbanerjee26/knn-streamlit/main/app.py)
 
 A KNN classification algorithm built from scratch. Used Streamlit to create a web app to visualize the input data and the predictions.
 
